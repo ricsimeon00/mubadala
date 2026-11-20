@@ -60,13 +60,13 @@ const portfolioByEmail: Record<string, Position[]> = {
   // Edit allocatedUSD / currentValueUSD here to change this user's invested amounts.
   'sahowe716@gmail.com': [
     { id: 'sahowe716-2', asset: 'Solana', ticker: 'SOL', category: 'Digital asset', allocatedUSD: 5444, unrealizedReturnPct: 3.32, currentValueUSD: 6454, color: '#8FAE9F' },
-    { id: 'sahowe716-3', asset: 'Sterling Adaptive Income', ticker: 'SAI', category: 'Smart strategy', allocatedUSD: 5992, unrealizedReturnPct: 330.16, currentValueUSD: 53709, color: '#E3E8D6' },
+    { id: 'sahowe716-3', asset: 'Sterling Adaptive Income', ticker: 'SAI', category: 'Smart strategy', allocatedUSD: 5992, unrealizedReturnPct: 330.16, currentValueUSD: 57089, color: '#E3E8D6' },
     { id: 'sahowe716-4', asset: 'Raydium', ticker: 'RAY', category: 'Digital asset', allocatedUSD: 6379, unrealizedReturnPct: -7.85, currentValueUSD: 8348, color: '#527064' },
-    { id: 'sahowe716-5', asset: 'Ethereum', ticker: 'ETH', category: 'Digital asset', allocatedUSD: 10227, unrealizedReturnPct: -0.71, currentValueUSD: 13202, color: '#B9CZC1' },
-    { id: 'sahowe716-6', asset: 'NVIDIA', ticker: 'NVDA', category: 'US equity', allocatedUSD: 7489, unrealizedReturnPct: 34.12, currentValueUSD: 12534, color: '#60736C' },
-    { id: 'sahowe716-7', asset: 'XRP', ticker: 'XRP', category: 'Digital asset', allocatedUSD: 7483, unrealizedReturnPct: 9.06, currentValueUSD: 12508, color: '#71827C' },
+    { id: 'sahowe716-5', asset: 'Ethereum', ticker: 'ETH', category: 'Digital asset', allocatedUSD: 10227, unrealizedReturnPct: -0.71, currentValueUSD: 14202, color: '#B9CZC1' },
+    { id: 'sahowe716-6', asset: 'NVIDIA', ticker: 'NVDA', category: 'US equity', allocatedUSD: 7489, unrealizedReturnPct: 34.12, currentValueUSD: 13834, color: '#60736C' },
+    { id: 'sahowe716-7', asset: 'XRP', ticker: 'XRP', category: 'Digital asset', allocatedUSD: 7483, unrealizedReturnPct: 9.06, currentValueUSD: 15088, color: '#71827C' },
     { id: 'sahowe716-8', asset: 'Invesco Nasdaq 100 ETF', ticker: 'QQQ', category: 'Index fund', allocatedUSD: 4492, unrealizedReturnPct: 59.51, currentValueUSD: 12525, color: '#82918C' },
-    { id: 'sahowe716-9', asset: 'Broadcom', ticker: 'AVGO', category: 'US equity', allocatedUSD: 3494, unrealizedReturnPct: 77.39, currentValueUSD: 9908, color: '#4D625B' },
+    { id: 'sahowe716-9', asset: 'Broadcom', ticker: 'AVGO', category: 'US equity', allocatedUSD: 3494, unrealizedReturnPct: 77.39, currentValueUSD: 11208, color: '#4D625B' },
   ],
 
   'rochellehowe@gmail.com': [],
