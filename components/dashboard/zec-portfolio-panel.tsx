@@ -26,9 +26,9 @@ import { Card } from '@/components/ui/card'
 
 export const ZEC_SLIDE_AVAILABLE_CASH_USD = 0
 export const PORTFOLIO2_ZEC_COST_USD = 50_000
-export const PORTFOLIO2_ZEC_CURRENT_USD = 104_922.95
+export const PORTFOLIO2_ZEC_CURRENT_USD = 107_304.02
 /** Trading profit from ZEC, held as Sterling Adaptive Income. */
-export const PORTFOLIO2_TRADING_PROFIT_USD = 55_295.45
+export const PORTFOLIO2_TRADING_PROFIT_USD = 56_895.29
 export const PORTFOLIO2_TOTAL_USD = PORTFOLIO2_ZEC_CURRENT_USD + PORTFOLIO2_TRADING_PROFIT_USD
 
 type ZecQuote = {
